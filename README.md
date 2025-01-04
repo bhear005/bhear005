@@ -1,6 +1,8 @@
 ## Hello! 👋
 - My name is Brendan
-- I'm fimiliar with C++, Java, and Python.
+- This is my ODU student account. 
+- Class of 2024 B.S. Computer Science.
+- I'm fimiliar with C++, Java, JavaScript, and Python.
 - 🌱 I’m currently learning Rust. 
  
 <!--
